@@ -34,11 +34,11 @@
 ### 해석
 #### Ⅰ. 디즈니 실사 영화의 부정적 평가
 <div>
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784542-e5f8fc00-43df-11eb-85ad-e672b546cccf.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784521-e1344800-43df-11eb-8d20-99d005cb6f42.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784582-f5784500-43df-11eb-9e26-363f775a8645.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784591-f8733580-43df-11eb-8131-02bc362932d1.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784566-eee9cd80-43df-11eb-86ea-5eac99c5437d.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784542-e5f8fc00-43df-11eb-85ad-e672b546cccf.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784521-e1344800-43df-11eb-8d20-99d005cb6f42.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784582-f5784500-43df-11eb-9e26-363f775a8645.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784591-f8733580-43df-11eb-8131-02bc362932d1.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784566-eee9cd80-43df-11eb-86ea-5eac99c5437d.png">
 <div>
 (순서대로 <알라딘> <미녀와 야수> <정글북> <라이언킹> <이상한 나라의 앨리스> 형용사, 상위 200개 분석)
 
@@ -49,16 +49,16 @@
 #### Ⅱ. 영화의 흥행요인
 #### (1) 캐릭터
 <div>
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784523-e1ccde80-43df-11eb-8464-8e39df01b6fd.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784532-e2fe0b80-43df-11eb-9e88-220228d4dc65.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784523-e1ccde80-43df-11eb-8464-8e39df01b6fd.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784532-e2fe0b80-43df-11eb-9e88-220228d4dc65.png">
 <div>
 (<알라딘> 명사 228개 분석)
 
 <알라딘>은 램프와 양탄자를 비롯한 모든 역할이 평균 0.05%(상위 3%)이상 언급되었다. 특히 악당 역할(술탄, 악당, 자파, 악역)은 6점 이상 평점을 준 관람객들에게서 빠지지 않고 언급되었다.
 <div>
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784544-e6919280-43df-11eb-9674-2bcb3d635e9a.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784546-e72a2900-43df-11eb-8704-cf0e9f46dc3a.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784550-e85b5600-43df-11eb-900a-a009442d190e.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784544-e6919280-43df-11eb-9674-2bcb3d635e9a.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784546-e72a2900-43df-11eb-8704-cf0e9f46dc3a.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784550-e85b5600-43df-11eb-900a-a009442d190e.png">
 <div>   
 (<이상한 나라의 앨리스> 명사 299개 분석)
 
@@ -81,13 +81,13 @@
 
 #### ∴ 호불호가 갈릴 수 있는 자연을 배경으로 한 작품은 감정을 자극하는 이야기에 초점을 맞추었다.
 
-(3) 음악
+#### (3) 음악
 <div>
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784560-ec877380-43df-11eb-8fa9-54344bd1abfd.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784578-f3ae8180-43df-11eb-9f08-4d95e25b974a.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784589-f7da9f00-43df-11eb-8477-5d0bb7168d66.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784538-e4c7cf00-43df-11eb-8006-47f9fb4f2cc0.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784600-fc06bc80-43df-11eb-87f5-7a3d2238ff34.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784560-ec877380-43df-11eb-8fa9-54344bd1abfd.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784578-f3ae8180-43df-11eb-9f08-4d95e25b974a.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784589-f7da9f00-43df-11eb-8477-5d0bb7168d66.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784538-e4c7cf00-43df-11eb-8006-47f9fb4f2cc0.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784600-fc06bc80-43df-11eb-87f5-7a3d2238ff34.png">
 <div>
 (순서대로 <이상한 나라의 앨리스> <정글북> <라이언킹> <알라딘> <미녀와 야수> 명사 분석)
 
@@ -103,8 +103,8 @@
 
 (2) 차이점
 <div>
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784592-f90bcc00-43df-11eb-9f5d-f7607dafa107.png">
-<img width="400" src="https://user-images.githubusercontent.com/74295599/102784594-f9a46280-43df-11eb-89fb-cf90ae491dfa.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784592-f90bcc00-43df-11eb-9f5d-f7607dafa107.png">
+<img width="600" src="https://user-images.githubusercontent.com/74295599/102784594-f9a46280-43df-11eb-89fb-cf90ae491dfa.png">
 <div>
 (<뮬란> 명사 분석)
 
